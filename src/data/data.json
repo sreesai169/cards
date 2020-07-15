@@ -1,0 +1,79 @@
+{
+  "profiles": [
+    {
+      "basic": {
+        "name": "Sri Sai Boodi",
+        "role": "Student",
+        "Phone": "98919791594",
+        "email": "sreesai132@gmail.com"
+      },
+      "career": "To become Software doveloper",
+      "head": {
+        "name": "Name of the institute",
+        "degree": "Degree",
+        "year": "Year",
+        "percent": "Percentage"
+      },
+      "eduactionalqualification": {
+        "institute": "GIET",
+        "degree": "B.tech",
+        "passoutyear": "2020",
+        "percentage": "85%"
+      },
+      "edu": {
+        "institute": "Narayana junior college",
+        "degree": "Intermediate",
+        "passoutyear": "2016",
+        "percentage": "93%"
+      },
+      "education": {
+        "institute": "Surya Deep E.M  school",
+        "degree": "SSC",
+        "passoutyear": "2014",
+        "percentage": "97%"
+      },
+      "techskills": {
+        "Pro": "C,Python,HTML,CSS,JavaScript"
+      },
+      "Achievements": "Secured 1st prize at International Tornments in martalsarts"
+    },
+
+    {
+      "basic": {
+        "name": "Boodi.Hemanth",
+        "role": "Student",
+        "Phone": "9573188736",
+        "email": "sreesai169@gmail.com"
+      },
+      "career": "To become company CEO",
+      "head": {
+        "name": "Name of the institute",
+        "degree": "Degree",
+        "year": "Year",
+        "percent": "Percentage"
+      },
+      "eduactionalqualification": {
+        "institute": "Godavari Institute of Engineering and Technology",
+        "degree": "B.tech",
+        "passoutyear": "2020",
+        "percentage": "78%"
+      },
+      "edu": {
+        "institute": "narayana junior college",
+        "degree": "Intermediate",
+        "passoutyear": "2016",
+        "percentage": "91%"
+      },
+      "education": {
+        "institute": "surya deep em school",
+        "degree": "SSC",
+        "passoutyear": "2014",
+        "percentage": "97%"
+      },
+      "techskills": {
+        "Pro": "C,Python,HTML,CSS,JavaScript"
+      },
+      "Achievements": "Won many prizes for projects in many college fests"
+    }
+  ]
+}
