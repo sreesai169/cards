@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sreesai169/cards/static/css/main.1d3fa62e.chunk.css",
+    "main.js": "/sreesai169/cards/static/js/main.ea697578.chunk.js",
+    "main.js.map": "/sreesai169/cards/static/js/main.ea697578.chunk.js.map",
+    "runtime-main.js": "/sreesai169/cards/static/js/runtime-main.9caff11a.js",
+    "runtime-main.js.map": "/sreesai169/cards/static/js/runtime-main.9caff11a.js.map",
+    "static/css/2.326c04ff.chunk.css": "/sreesai169/cards/static/css/2.326c04ff.chunk.css",
+    "static/js/2.b0227dcb.chunk.js": "/sreesai169/cards/static/js/2.b0227dcb.chunk.js",
+    "static/js/2.b0227dcb.chunk.js.map": "/sreesai169/cards/static/js/2.b0227dcb.chunk.js.map",
+    "index.html": "/sreesai169/cards/index.html",
+    "precache-manifest.06d9e3a4f21c833b7d54096f33c0e86d.js": "/sreesai169/cards/precache-manifest.06d9e3a4f21c833b7d54096f33c0e86d.js",
+    "service-worker.js": "/sreesai169/cards/service-worker.js",
+    "static/css/2.326c04ff.chunk.css.map": "/sreesai169/cards/static/css/2.326c04ff.chunk.css.map",
+    "static/css/main.1d3fa62e.chunk.css.map": "/sreesai169/cards/static/css/main.1d3fa62e.chunk.css.map",
+    "static/js/2.b0227dcb.chunk.js.LICENSE.txt": "/sreesai169/cards/static/js/2.b0227dcb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sreesai169/cards/static/media/apssdc.630602c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9caff11a.js",
+    "static/css/2.326c04ff.chunk.css",
+    "static/js/2.b0227dcb.chunk.js",
+    "static/css/main.1d3fa62e.chunk.css",
+    "static/js/main.ea697578.chunk.js"
+  ]
+}
